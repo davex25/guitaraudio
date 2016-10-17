@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <repositories encoding="UTF-8" version="1.1">
-  <repo priority="50" quality="experimental">
+  <repo priority="100" quality="experimental">
     <name>guitaraudio</name>
     <description>Guitar-focused audio applications</description>
     <owner>
